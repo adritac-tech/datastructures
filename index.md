@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to Adrita's GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/adritac-tech/datastructures/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Here you can find notes from TPTs as well as study prep for the AP Exam.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Snippets of code challenges may also be accessed from this page.
 
 ### Markdown
 
