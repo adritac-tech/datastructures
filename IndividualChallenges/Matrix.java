@@ -7,6 +7,13 @@ public class Matrix {
     }
 
     // Hack: create toString method using nested for loops to format output of a matrix
+    public toString(int[][] matrix){
+        for(int i = 0; i < matrix.length; i++){
+            for(int j = 0; j < matrix[].length; j++){
+                matrix[i][j] = Integer.toString(matrix[i][j]);
+            }
+        }
+    }
 
 
     // declare and initialize a matrix for a keypad
