@@ -1,15 +1,21 @@
-public class Matrix(int[][] matrix) {
+public class Matrix {
+    private final int[][] matrix;
+
+    // store matrix
+    public Matrix(int[][] matrix) {
+        this.matrix = matrix;
+    }
     // store matrix
 
     // Hack: create toString method using nested for loops to format output of a matrix
-    public String[][] toString(int[][] matrix) {
-       // String[][] matrixupdated =
+    public static String[][] toString(int[][] matrix) {
+        String[][] matrixupdated = new String[3][4];
         for (int i = 0; i < matrix.length; i++) {
             for (int j = 0; j < matrix.length; j++) {
-                matrix[i][j] = Integer.toString(matrix[i][j]);
+                matrixupdated[i][j] = Integer.toString(matrix[i][j]);
             }
         }
-        return matrix;
+        return matrixupdated;
     }
 
 
@@ -33,7 +39,7 @@ public class Matrix(int[][] matrix) {
 
         Matrix m1 = new Matrix(numbers());
         System.out.println("Numbers Systems:");
-        System.out.println(m1);
+        System.out.println(toString(m1));
     }
 
 }
