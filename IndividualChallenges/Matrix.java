@@ -8,9 +8,9 @@ public class Matrix {
     // store matrix
 
     // Hack: create toString method using nested for loops to format output of a matrix
-    public static String[][] toString(int[][] matrix) {
+    public static String[][] toString(Matrix matrix) {
         String[][] matrixupdated = new String[3][4];
-        for (int i = 0; i < matrix.length; i++) {
+        for (int i = 0; i < matrix.size(); i++) {
             for (int j = 0; j < matrix.length; j++) {
                 matrixupdated[i][j] = Integer.toString(matrix[i][j]);
             }
