@@ -8,16 +8,16 @@ public class Matrix {
     // store matrix
 
     // Hack: create toString method using nested for loops to format output of a matrix
-    public static String[][] toString(Matrix matrix) {
+    public static String[][] toString(int[][] matrix) {
         String[][] matrixupdated = new String[3][4];
-        for (int i = 0; i < matrix.size(); i++) {
+        for (int i = 0; i < matrix.length; i++) {
             for (int j = 0; j < matrix.length; j++) {
                 matrixupdated[i][j] = Integer.toString(matrix[i][j]);
             }
         }
         return matrixupdated;
     }
-
+    //Error is it is printing out the location rather than values of arrays
 
     // declare and initialize a matrix for a keypad
     static int[][] keypad() {
@@ -39,7 +39,8 @@ public class Matrix {
 
         Matrix m1 = new Matrix(numbers());
         System.out.println("Numbers Systems:");
-        System.out.println(toString(m1));
+        int[][] m2 = new int[][]{{0, 0, 0}, {1, 1, 1}, {2, 2, 2}, {3, 3, 3}};
+        System.out.println(toString(m2));
     }
 
 }
