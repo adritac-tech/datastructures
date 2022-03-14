@@ -6,7 +6,16 @@ Snippets of code challenges may also be accessed from this page.
 
 ## Review Tickets
 
-[Review Ticket 1](https://github.com/adritac-tech/datastructures/issues/1)
+<table>
+  <tr>
+    <th>Week</th>
+    <th>Review Ticket</th>
+  </tr>
+  <tr>
+    <td> Week 1 </td>
+    <td><a href="https://github.com/adritac-tech/datastructures/issues/1" target="_blank">Review Ticket</a></td>
+</table>
+
 
 ## TPT Notes
 
