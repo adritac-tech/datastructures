@@ -6,7 +6,9 @@ Snippets of code challenges may also be accessed from this page.
 
 ## TPT Notes
 
-* 
+* Matrixes are objects to represent 2D arrays
+* Menu needs to ouput options 
+* IntByReference needs to use swapper method (check sorting methods)
 
 ## Code Links
 
