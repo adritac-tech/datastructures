@@ -4,6 +4,10 @@ Here you can find notes from TPTs as well as study prep for the AP Exam.
 
 Snippets of code challenges may also be accessed from this page.
 
+## Review Tickets
+
+[Review Ticket 1](https://github.com/adritac-tech/datastructures/issues/1)
+
 ## TPT Notes
 
 * Matrixes are objects to represent 2D arrays
