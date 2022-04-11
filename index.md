@@ -1,4 +1,5 @@
 # Welcome to Adrita's GitHub Pages
+{% include nav.html %}
 
 Here you can find notes from TPTs as well as study prep for the AP Exam.
 
