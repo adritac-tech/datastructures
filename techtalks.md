@@ -45,6 +45,10 @@ Sort the left half of the array (recursively)
 Sort the right half of the array (recursively)
 Merge the solutions
 
+## Sort Analysis 
+* Merge sorts are best for efficiently getting through large sets of data
+* This is probably because it uses big groups of data rather than sorting through individual elements 
+
 # Week 0
 * Programs are a combination of algorithms and data structures
 * Paradigm: Approach or a methodology or a strategy to be followed for writing software applications
