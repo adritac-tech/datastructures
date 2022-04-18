@@ -1,3 +1,8 @@
+# Queues 
+* Reverse polish notation uses the operator at the end of the statement (so 4 + 2 would be 4 2 +)
+* Linked lists are arrays of objects 
+* Queues are created from objects in a linked list
+
 # Sorts and Analysis 
 * Bubble sort = sorts that swap adjacent elements 
 * Insertion sorts are less effecient but they sort by doing two groups (sorted and unsorted)
