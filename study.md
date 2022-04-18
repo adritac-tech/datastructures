@@ -15,3 +15,20 @@
 ## Week of May 2nd: 
 * Last minute review and questions answered
 * Take the exam 
+
+## Proof of Studying
+<table>
+  <tr>
+    <th>Week</th>
+    <th>Studying proof</th>
+  </tr>
+  <tr>
+    <td> Week 1 </td>
+    <td><a href="" target="_blank">Week 1 Work</a></td>
+  <tr>
+    <td> Week 2 </td>
+    <td><a href="" target="_blank">Week 2 Work</a></td>
+  <tr>
+    <td> Week 3 </td>
+    <td><a href="" target="_blank">Week 3 Work</a></td>
+</table>
