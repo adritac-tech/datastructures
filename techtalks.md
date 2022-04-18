@@ -1,3 +1,5 @@
+{% include nav.html %}
+
 # Queues 
 * Reverse polish notation uses the operator at the end of the statement (so 4 + 2 would be 4 2 +)
 * Linked lists are arrays of objects 
